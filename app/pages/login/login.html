@@ -1,0 +1,10 @@
+<StackLayout>
+  <Image src="res://logo_login" stretch="none" horizontalAlignment="center"></Image>
+
+  <TextField hint="Endereço de e-mail" keyboardType="email" [(ngModel)]="user.email"
+    autocorrect="false" autocapitalizationType="none"></TextField>
+  <TextField hint="Senha" secure="true" [(ngModel)]="user.password"></TextField>
+
+  <Button [text]="isLoggingIn ? 'Entrar' : 'Efetuar cadastro'" class="signin-button" (tap)="submit()"></Button>
+  <Button [text]="isLoggingIn ? 'Criar uma conta' : 'Voltar e entrar'" class="signup-button" (tap)="toggleDisplay()"></Button>
+</StackLayout>

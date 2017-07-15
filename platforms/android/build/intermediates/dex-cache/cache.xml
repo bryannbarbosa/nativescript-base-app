@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-24.2.1_4b8c8a5f34deb047967740976d00a49204b6d06a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-24.2.1_e3794ebda9989699b72353597ccd7dcbf8e5f7e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-24.2.1_e6944e3219f7e4505914db1d9d5102df287f1ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-24.2.1_e0d6c98713316efb473b0fe2c44681951ff35c72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_745d0919d43a06b38638454580ca31612e962105.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-24.2.1_d0723d029f9fd31eb64d64a4ab36be1acd187593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-24.2.1_c38d7d226dc623ac83a0e79ee2539e41b7ce04ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-24.2.1_c989b62acc05002c8fedbcc1edc43a00b806d9af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-24.2.1_3db46743df3141669fe1f66c3c77e0c74d93c6ae.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-24.2.1_b6a22d523ce28b3e5040eb480e5e98557319327b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_8fe4d3b084b336926cc3d072a2f950edcd3f18f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-24.2.1_881b81f6bd706c630da30cdd0dafff6dd389d79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_6b320d4379b29778fec2248b28e8b0ecc0297042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_24a23064203e1f45f10f53b054560f7440863952.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/internal_impl-24.2.1_bdd4a36f4d033e12824f708842b1ca686a66b0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_ee097d0319c4f93a66cec495720d58859854d60f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-24.2.1_88bc0edd044741ee3eb66fef8e6813166a8e3f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_20d8f683f978eca9928d9959fb4897bebf2e0995.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/exploded-aar/Groceries/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/home/bryann/Área de Trabalho/nativescript/Groceries/platforms/android/build/intermediates/pre-dexed/F0/debug/Groceries-runtime-unspecified_6b4503982eb5ad6ffded9cb61b81bde9040bc2e7.jar" />
+    </item>
+
+</items>

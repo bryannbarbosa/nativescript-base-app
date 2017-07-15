@@ -1,0 +1,31 @@
+StackLayout {
+  margin-left: 30;
+  margin-right: 30;
+  padding-bottom: 15;
+  background-color: white;
+}
+Image {
+  margin-top: 5;
+  margin-bottom: 20;
+}
+Button, TextField {
+  margin-left: 16;
+  margin-right: 16;
+}
+.signin-button {
+  background-color: #3356a3;
+  color: white;
+  padding-top: 20;
+  padding-bottom: 20;
+}
+
+.signup-button {
+  background-color: #3356a3;
+  color: white;
+  padding-top: 15;
+  padding-bottom: 15;
+}
+
+TextField {
+  font-size: 18;
+}
